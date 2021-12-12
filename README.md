@@ -2,8 +2,8 @@
  
  **_Profile_** : Kresna Dwipayana Sindudharma H | [Email](mailto:kresnadwipsh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kresnadwipsh)
  
- **_Dataset_** : rumah123.xlsx
+ **_Dataset_** : rumah123_scraper.xlsx
  
- **_Source_** :  https://www.rumah123.com/jual/cimahi/rumah/
+ **_Source_** :  [Rumah123.com](https://www.rumah123.com/jual/cimahi/rumah/)
  
  ---
